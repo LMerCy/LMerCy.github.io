@@ -1,3 +1,11 @@
+## 为什么要建个人博客？
+
+其实一直是有个人笔记的，但是个人笔记往往由于是给自己看的，缺乏自律的话很容易写的很零散，有时候也会偷懒写着写着就不写了，因此想通过建立一个个人博客来督促自己。
+
+## 博客内主要记录什么内容？
+
+主要是记录和智能驾驶有关的，包括感知、追踪、测距测速、优化等技术的学习过程。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LMerCy/LMerCy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
